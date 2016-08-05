@@ -1,0 +1,42 @@
+_repo: A-Book-of-Golden-Deeds_6489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heroes -- Juvenile literature'
+- !lcsh 'Self-sacrifice -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Virtues -- Juvenile literature'
+- GITenberg
+tableOfContents: What is a golden deed? -- The stories of Alcestis and Antigone --
+  The cup of water -- How one man has saved a host -- The pass of Thermopylae -- The
+  rock of the Capital -- The two friends of Syracuse -- The devotion of the Decii
+  -- Regulus -- The brave brethren of Judah -- The chief of the Arverni -- Withstanding
+  the monarch in his wrath -- The last fight in the Coliseum -- The shepherd girl
+  of Nanterre -- Leo the slave -- The battle of the Blackwater -- Guzman El Bueno
+  -- Faithful till death -- What is better than slaying a dragon -- The keys of Calais
+  -- The Battle of Sempach -- The constant prince -- The carnival of Perth -- The
+  crown of St. Stephen -- George the triller -- Sir Thomas More's daughter -- Under
+  Ivan the Terrible -- Fort St. Elmo -- The voluntary convict -- The housewives of
+  Lowenburg -- Fathers and sons -- The soldiers in the snow -- Gunpowder perils --
+  Heroes of the plague -- The second of September -- The Vendeans.
+title: A Book of Golden Deeds
+url: http://www.gutenberg.org/ebooks/6489
